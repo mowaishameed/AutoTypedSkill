@@ -65,7 +65,7 @@ html{
  
 #home::before{
     content: "";
-    background:url(/img/imuneebprofile.jpg) center center/cover;
+    background:url(img/imuneebprofile.jpg) center center/cover;
     background-repeat: repeat-x;
     position: absolute;
     width: 100%;
